@@ -28,7 +28,8 @@ ul li a p
 {
   width: 75%;
   list-style-type: none;
-  background: #E94016;
+  /*background: #E94016;*/
+  background: blue;
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
@@ -46,7 +47,8 @@ h1
   padding: 5px 0 .3em;
   line-height: 32px;
   text-align: center;
-  color: black;
+  /*color: black;*/
+  color: white;
 }
 
 h3
@@ -62,7 +64,8 @@ h3
 
 header.sidebar
 {
-  background-color: #EEEEEE;
+  /*background-color: #EEEEEE;*/
+  background: gray;
   width: 30%;
   background-size: cover;
   display: inline-block;
@@ -101,7 +104,8 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
+  /*background: black;*/
+  background: blue;
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;
@@ -147,6 +151,7 @@ div.layout-principal
   overflow-x: auto;
   width: 55%;
   padding: 0% 6.5%;
+  background: gray;
 }
 
 div.bloque
