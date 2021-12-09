@@ -104,7 +104,8 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
+  /*background: black;*/
+  background: blue;
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;
